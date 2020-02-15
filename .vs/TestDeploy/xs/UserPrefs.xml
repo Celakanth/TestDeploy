@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5D43154D-9610-4BBD-89FC-81E4FF6E516D}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestDeploy PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestDeploy/Pages/Index.razor">
+    <Files>
+      <File FileName="TestDeploy/Pages/Index.razor" Line="3" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestDeploy" expanded="True">
+            <Node name="TestDeploy" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
